@@ -15,7 +15,7 @@ A FastAPI application that detects breakout signals in financial price data and 
 1. **Clone the repository:**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Anusha266/trading-breakout-detector.git
 cd breakout_signal_api
 ```
 
